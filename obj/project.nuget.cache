@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SH4K/Ju83rg=",
+  "success": true,
+  "projectFilePath": "/Users/artemmazurenko/GaussianIntegers/GaussianIntegers.fsproj",
+  "expectedPackageFiles": [
+    "/Users/artemmazurenko/.nuget/packages/fsharp.core/8.0.403/fsharp.core.8.0.403.nupkg.sha512"
+  ],
+  "logs": []
+}
